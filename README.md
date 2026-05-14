@@ -1,2 +1,2 @@
 # machine-learning-project
-Python projects and university assignments
+Python project and university assignment
